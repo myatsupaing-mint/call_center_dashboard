@@ -36,5 +36,7 @@ The objective of this task was to analyze call center data and create a dashboar
 - **Interactive Visualizations**:  
   - Bar charts, heatmaps, and KPIs for quick insights.  
 - **Agent-wise Performance**: Satisfaction ratings and average talk durations by topic.  
-- **Topic-specific Analysis**: Satisfaction ratings and speed of answer visualized across different query topics.  
+- **Topic-specific Analysis**: Satisfaction ratings and speed of answer visualized across different query topics.
+
+  You can view the dashboard [here](https://app.powerbi.com/links/PM-ksK4URR?ctid=e2f6449a-9194-40cb-8f04-8057c2c81222&pbi_source=linkShare).
 
